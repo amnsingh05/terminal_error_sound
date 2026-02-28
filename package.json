@@ -1,5 +1,5 @@
 {
-  "name": "terminal-error-sound",
+  "name": "amansingh-terminal-error-sound",
   "displayName": "Terminal Error Sound",
   "description": "Plays a sound when the integrated terminal exits with a non-zero error code.",
   "version": "0.0.1",
