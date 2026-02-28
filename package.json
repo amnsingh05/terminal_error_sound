@@ -4,6 +4,24 @@
   "description": "Plays a sound when the integrated terminal exits with a non-zero error code.",
   "version": "0.0.1",
   "publisher": "amansinghdev",
+  "license": "MIT",
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amnsingh05/terminal_error_sound"
+  },
+  "bugs": {
+    "url": "https://github.com/amnsingh05/terminal_error_sound/issues"
+  },
+  "homepage": "https://github.com/amnsingh05/terminal_error_sound",
+  "keywords": [
+    "vscode",
+    "terminal",
+    "error",
+    "sound",
+    "notification",
+    "developer"
+  ],
   "engines": {
     "vscode": "^1.109.0"
   },
