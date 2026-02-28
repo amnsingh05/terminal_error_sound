@@ -3,7 +3,7 @@
   "displayName": "Terminal Error Sound",
   "description": "Plays a sound when the integrated terminal exits with a non-zero error code.",
   "version": "0.0.1",
-  "publisher": "your-publisher-name",
+  "publisher": "amansinghdev",
   "engines": {
     "vscode": "^1.109.0"
   },
